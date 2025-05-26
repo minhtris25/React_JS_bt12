@@ -41,7 +41,7 @@ function App() {
       {/* Nút được căn giữa */}
       <div className="button-wrapper">
         <button onClick={handleAddAnimal} className="animal-button">
-          Hiện thêm con vật 🐶
+          Add Now
         </button>
       </div>
 
