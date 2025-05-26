@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="app-container">
       {/* Tiêu đề */}
-      <h1 className="app-title">Thư viện động vật ngẫu nhiên 🐾</h1>
+      <h1 className="app-title">🐾 Add Animal 🐾</h1>
 
       {/* Nút được căn giữa */}
       <div className="button-wrapper">
